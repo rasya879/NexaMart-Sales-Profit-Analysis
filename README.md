@@ -65,6 +65,7 @@ These are evidence-informed recommendations for further investigation, not claim
 
 - [QA-Resolved Excel Dataset](NexaMart_QA_Resolved.xlsx)
 - [Power BI Dashboard — PDF](NexaMart_Sales_Profit_Dashboard%20(2).pdf)
+- [SQL Analysis Queries](NexaMart_Portfolio_SQL_Analysis.sql)
 
 ## Conclusion
 
